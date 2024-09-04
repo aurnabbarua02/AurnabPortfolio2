@@ -1,0 +1,13 @@
+.nav-item:hover {
+    background-color: rgb(101, 220, 101);
+}
+
+.active {
+    background-color: rgb(101, 220, 101);
+}
+.header {
+    width: 100%;
+    position: fixed;
+    font: 10px;
+    text-transform: uppercase;
+  }
